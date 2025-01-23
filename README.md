@@ -43,3 +43,18 @@ hljs.registerLanguage('tt2-pseudoperl', function (hljs) {
 hljs.registerLanguage('tt2', function () {
   // Custom TT2 highlighter implementation
 });
+```
+
+## Before and After
+
+Before:
+
+<div style="max-width: 600px;">
+  <img src="before.png" alt="TT2 Block without Syntax Highlighting">
+</div>
+
+After:
+
+<div style="max-width: 600px;">
+  <img src="after.png" alt="TT2 Block with Syntax Highlighting">
+</div>
